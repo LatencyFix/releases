@@ -24,6 +24,8 @@ Additionally, this release includes the following files:
 - Templates for Ableton and ProTools, for easier setup and use of the plugin.
 - Uninstaller package to remove LatencyFix entirely from your machine.
 
+Latency Fix AB - all rights reserved
+
 **Notes:**
 - In case you own a license already, please make sure to download the correct version (BASIC vs PRO) and the correct subscription (M-Monthly or Y-Yearly).
 - In case you have a free trial, please install LatencyFix PRO - Monthly, since that is the variant that are featured on these licenses.
