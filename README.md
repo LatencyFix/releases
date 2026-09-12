@@ -24,8 +24,6 @@ Additionally, this release includes the following files:
 - Templates for Ableton and ProTools, for easier setup and use of the plugin.
 - Uninstaller package to remove LatencyFix entirely from your machine.
 
-Latency Fix AB - all rights reserved
-
 **Notes:**
 - In case you own a license already, please make sure to download the correct version (BASIC vs PRO) and the correct subscription (M-Monthly or Y-Yearly).
 - In case you have a free trial, please install LatencyFix PRO - Monthly, since that is the variant that are featured on these licenses.
@@ -33,3 +31,5 @@ Latency Fix AB - all rights reserved
 
 **Known Bugs:**
 - When using LatencyFix on ProTools with MacOS Tahoe, the recorded track received by the producer is not moved to the correct place after finishing recording. Producer is still able to monitor without latency, but scripts that move and correct latency post-recording are not being triggered on this specific setup.
+
+Latency Fix AB - all rights reserved
