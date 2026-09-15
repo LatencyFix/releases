@@ -19,17 +19,16 @@ Ideal for producers and musicians aiming to collaborate remotely creating music.
 - Standalone plugin that allows measuring external hardware or studio latency, for custom or more complex setups.
 Aimed for producers that not only want to collaborate, but also work with complex hardware setup and studios, where latency needs to be measured for adjustment with other tools.
 
-Additionally, this release includes the following files:
-- LatencyFix user manual.
-- Templates for Ableton and ProTools, for easier setup and use of the plugin.
+Additionally, releases include the following files:
 - Uninstaller package to remove LatencyFix entirely from your machine.
+
+User manuals and templates for supported DAWs can be found in the [user manual releases](https://github.com/LatencyFix/user-manuals/releases).
 
 **Notes:**
 - In case you own a license already, please make sure to download the correct version (BASIC vs PRO) and the correct subscription (M-Monthly or Y-Yearly).
-- In case you have a free trial, please install LatencyFix PRO - Monthly, since that is the variant that are featured on these licenses.
-- Please check the website for necessary specs on your machine. For the moment, only MacOS is supported, as well as ProTools and Ableton DAWs.
+- In case you have a free trial, please install "LatencyFix PRO - Monthly" (LatencyFix.PRO.-.LatencyFix.-.Mac.X.Y.Z.M.pkg), since that is the variant that features the free trial licenses.
+- Please check the website for necessary specs on your machine. For the moment, only MacOS is supported, as well as ProTools, Ableton and Reaper DAWs.
 
-**Known Bugs:**
-- When using LatencyFix on ProTools with MacOS Tahoe, the recorded track received by the producer is not moved to the correct place after finishing recording. Producer is still able to monitor without latency, but scripts that move and correct latency post-recording are not being triggered on this specific setup.
+---
 
 Latency Fix AB - all rights reserved
